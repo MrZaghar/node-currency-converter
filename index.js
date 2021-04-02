@@ -27,4 +27,4 @@ class CurrencyConverter {
     }
 }
 
-module.exports = CurrencyConverter
+module.exports = CurrencyConverter 
