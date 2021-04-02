@@ -6,13 +6,13 @@
 ### Installation
 
 ```bash
-npm install node-currency-converter
+npm install @mrzaghar/node-currency-converter
 ```
 
 ### Usage
 
 ```javascript
-const currencyConverter = new (require('node-currency-converter'))
+const currencyConverter = new (require('@mrzaghar/node-currency-converter'))
 ```
 
 ```javascript
@@ -30,7 +30,7 @@ const currencyConverter = new (require('node-currency-converter'))
 ### Example
 
 ```javascript
-const currencyConverter = new (require('node-currency-converter'));
+const currencyConverter = new (require('@mrzaghar/node-currency-converter'));
 (async () => {
     var toGbp =await currencyConverter.from('USD').to('GBP').convert(300);
     var toEUR =await currencyConverter.from('GBP').to('EUR').convert(300);
