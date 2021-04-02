@@ -1,0 +1,28 @@
+{
+  "name": "@mrzaghar/node-currency-converter",
+  "version": "1.0.0",
+  "description": "Node Currency Converter library unlimited requests no API needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrZaghar/node-currency-converter.git"
+  },
+  "keywords": [],
+  "author": "MrZaghar <zagtaku@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrZaghar/node-currency-converter/issues"
+  },
+  "homepage": "https://github.com/MrZaghar/node-currency-converter#readme",
+  "dependencies": {
+    "cheerio": "*",
+    "node-fetch": "^2.6.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
