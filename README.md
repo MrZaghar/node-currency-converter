@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Node Currency Converter</h1>
 <p>Node Currency Converter library unlimited requests no API needs.</p>
-    [![@mrzaghar/node-currency-converter](https://img.shields.io/static/v1?label=npm&message=v.1.0.1&color=brightgreen)](https://www.npmjs.com/package/@mrzaghar/node-currency-converter)
+    <a title="@mrzaghar/node-currency-converter" href="https://www.npmjs.com/package/@mrzaghar/node-currency-converter" target="_blank"><img src="https://img.shields.io/static/v1?label=npm&message=v.1.0.1&color=brightgreen" /></a>
 </div>
 
 
